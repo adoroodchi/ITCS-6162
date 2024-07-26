@@ -32,7 +32,7 @@ Exploratory Data Analysis (EDA) revealed several insights into the dataset:
 The distribution of ages in the dataset shows a higher frequency of older adults.
 Cognitive test scores exhibit variation across different stages of Alzheimer's Disease.
 
-*screenshots are provided in the submission on canvas*
+*please open the jupyter notebook in this repository for the visualizations*
 
 Data Preparation:
 Data preparation involved several steps to ensure the dataset was ready for analysis:
